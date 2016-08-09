@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryce-Raffles-iMac" Modified="2016-08-08 20:15:22 -0700" ModID="CEC20369-7F76-45FB-A5C1-465FEBE009DE">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryces-MacBook-Pro" Modified="2016-08-09 12:48:54 -0700" ModID="3974FB31-B94C-4736-B0ED-FF9A31479CFC">
     <Binder>
         <BinderItem ID="0" UUID="11C442F8-33DF-4171-906A-71D3E870481F" Type="DraftFolder" Created="2006-11-04 08:27:29 -0800" Modified="2016-08-08 17:03:40 -0700">
             <Title>London Fog</Title>
@@ -19,9 +19,10 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="1105" UUID="E775BFD7-EDF1-4FFC-AEC5-0920A68E5AD1" Type="Text" Created="2016-08-08 17:40:59 -0700" Modified="2016-08-08 17:43:07 -0700">
+                        <BinderItem ID="1105" UUID="E775BFD7-EDF1-4FFC-AEC5-0920A68E5AD1" Type="Text" Created="2016-08-08 17:40:59 -0700" Modified="2016-08-09 11:36:13 -0700">
                             <Title>The distinctive ringing of metal sang out as Kasumi</Title>
                             <MetaData>
+                                <LabelID>6</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
@@ -52,14 +53,26 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1103" UUID="97533ED0-8DB8-43E4-9AD3-E294CA90A18A" Type="Text" Created="2016-08-08 17:06:30 -0700" Modified="2016-08-08 19:07:26 -0700">
+                                <BinderItem ID="1103" UUID="97533ED0-8DB8-43E4-9AD3-E294CA90A18A" Type="Text" Created="2016-08-08 17:06:30 -0700" Modified="2016-08-09 11:35:41 -0700">
                                     <Title>Hoist the sails!</Title>
                                     <MetaData>
+                                        <LabelID>1</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>3387,0</TextSelection>
+                                        <TextSelection>4346,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="1106" UUID="A5D342F1-6312-44F3-AA42-08ED74FE8E4E" Type="Text" Created="2016-08-09 11:36:18 -0700" Modified="2016-08-09 12:48:54 -0700">
+                                    <Title>Annabel Grey</Title>
+                                    <MetaData>
+                                        <LabelID>7</LabelID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>14,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -7619,7 +7632,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>12145,0</TextSelection>
+                                        <TextSelection>7924,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="671" UUID="956F468B-19B7-4300-A834-E19893D6ECB2" Type="Text" Created="2014-12-27 14:23:05 -0800" Modified="2015-05-02 12:29:07 -0700">
@@ -7646,7 +7659,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="545" UUID="79E27B5D-AD25-4F42-A65A-BC6A4B040229" Type="Text" Created="2014-04-27 17:24:52 -0700" Modified="2015-12-20 14:10:34 -0800">
+                                <BinderItem ID="545" UUID="79E27B5D-AD25-4F42-A65A-BC6A4B040229" Type="Text" Created="2014-04-27 17:24:52 -0700" Modified="2016-08-09 11:39:35 -0700">
                                     <Title>Scene Four</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -8273,7 +8286,7 @@
             <Label ID="7" Color="0.61533 0.169741 0.21226">Annabel</Label>
             <Label ID="1" Color="0.95 0.915 0.331946">Jonathan</Label>
             <Label ID="5" Color="0.8914 0.527776 0.221996">Roderick</Label>
-            <Label ID="6" Color="0.260495 0.913917 0.175447">Anthony Tidkins</Label>
+            <Label ID="6" Color="0.260495 0.913917 0.175447">Kasumi</Label>
             <Label ID="9" Color="0.501961 0.25098 0.0">Henry Charles</Label>
             <Label ID="10" Color="0.966036 0.738892 0.064716">Andrew</Label>
             <Label ID="11" Color="0.783742 0.378297 0.655015">Charles Grimmer</Label>
@@ -8314,7 +8327,7 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2013-09-02 05:30:48 -0700" IgnoreDeadline="Yes">95000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">1000</SessionTarget>
-        <PreviousSession Words="933" Characters="5337" Date="2016-08-08 10:53:26 -0700"></PreviousSession>
+        <PreviousSession Words="1038" Characters="5795" Date="2016-08-09 11:13:49 -0700"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>8EED039C-309C-4498-8EB6-DE6EA0C8183E</TemplateFolderUUID>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
