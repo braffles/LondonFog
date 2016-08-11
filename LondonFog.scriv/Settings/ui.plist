@@ -15,7 +15,7 @@
 	</dict>
 	<key>binderSelection</key>
 	<array>
-		<integer>0</integer>
+		<integer>2</integer>
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
@@ -166,7 +166,7 @@
 	<integer>0</integer>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>0</integer>
+		<integer>1099</integer>
 	</array>
 	<key>supportingDocumentEditor.currentEditorViewMode</key>
 	<integer>1</integer>
@@ -196,26 +196,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{112, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>837</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
-			<dict>
-				<key>AggregateSelection</key>
-				<string>{0, 0}</string>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>839</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>1</integer>
-			</dict>
 			<dict>
 				<key>AggregateSelection</key>
 				<string>{0, 0}</string>
@@ -1108,6 +1088,8 @@
 				<integer>1</integer>
 			</dict>
 			<dict>
+				<key>AggregateSelection</key>
+				<string>{1225, 0}</string>
 				<key>BinderDocIDs</key>
 				<array>
 					<integer>0</integer>
@@ -1115,12 +1097,30 @@
 				<key>ViewMode</key>
 				<integer>1</integer>
 			</dict>
+			<dict>
+				<key>AggregateSelection</key>
+				<string>{14543, 0}</string>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1113</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1099</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 41.5}, {612, 544}}</string>
+	<string>{{0, 0}, {612, 544}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
-	<string>{1225, 0}</string>
+	<string>{0, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
