@@ -187,7 +187,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>1204,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1123" UUID="25EE8B1B-CC4B-41F0-8213-747531588577" Type="Text" Created="2016-08-12 20:09:39 -0700" Modified="2016-08-12 20:16:59 -0700">
