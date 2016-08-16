@@ -15,7 +15,7 @@
 	</dict>
 	<key>binderSelection</key>
 	<array>
-		<integer>10</integer>
+		<integer>12</integer>
 	</array>
 	<key>binderSplitFrames</key>
 	<array>
@@ -26,9 +26,6 @@
 	<array>
 		<integer>0</integer>
 		<integer>1099</integer>
-		<integer>1113</integer>
-		<integer>1125</integer>
-		<integer>1126</integer>
 		<integer>984</integer>
 	</array>
 	<key>collectionSelectionAutosaveName</key>
@@ -64,8 +61,8 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {966, 647}}</string>
-		<string>{{967, 0}, {306, 647}}</string>
+		<string>{{0, 0}, {666, 626}}</string>
+		<string>{{667, 0}, {306, 626}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -105,7 +102,7 @@
 		<array/>
 	</dict>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {606, 304}}</string>
+	<string>{{0, 0}, {621, 304}}</string>
 	<key>mainDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -162,10 +159,10 @@
 	<integer>0</integer>
 	<key>supportingDocumentEditor.binderDocuments</key>
 	<array>
-		<integer>1122</integer>
+		<integer>1126</integer>
 	</array>
 	<key>supportingDocumentEditor.currentEditorViewMode</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>supportingDocumentEditor.editorGroupsViewMode</key>
 	<integer>1</integer>
 	<key>supportingDocumentEditor.hiddenOutlinerColumnIdentifiers</key>
@@ -192,14 +189,6 @@
 		<integer>99</integer>
 		<key>NavigationHistoryArray</key>
 		<array>
-			<dict>
-				<key>BinderDocIDs</key>
-				<array>
-					<integer>1111</integer>
-				</array>
-				<key>ViewMode</key>
-				<integer>0</integer>
-			</dict>
 			<dict>
 				<key>AggregateSelection</key>
 				<string>{0, 0}</string>
@@ -1112,12 +1101,20 @@
 				<key>ViewMode</key>
 				<integer>0</integer>
 			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>1126</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>1</integer>
+			</dict>
 		</array>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {612, 565}}</string>
+	<string>{{0, 0}, {612, 544}}</string>
 	<key>supportingDocumentEditor.selectedRanges</key>
-	<string>{1204, 0}</string>
+	<string>{2, 0}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>hasMultiplePages</key>
