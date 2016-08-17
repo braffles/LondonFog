@@ -12465,7 +12465,9 @@ Roderick contemplates the clues he’s found so far. He takes a walk to clear hi
         </Document>
         <Document ID="1120">
             <Title>The Mad Priest's cellmate was talktative, which was</Title>
-            <Text>The Mad Priest’s cellmate was talkative, which was both a blessing and a curse—a blessing because he’d been wanting for company, a curse because he was beginning to feel that Parson Sinews enjoyed talking simply to hear his own voice.
+            <Text>Three Years Earlier
+
+The Mad Priest’s cellmate was talkative, which was both a blessing and a curse—a blessing because he’d been wanting for company, a curse because he was beginning to feel that Parson Sinews enjoyed talking simply to hear his own voice.
 “Before you woke me,” he said, “I dreamt that Camille was dead. What do you make of that, Father? Wishful thinking?”
 “Who is Camille?” Pieres asked.
 “My fiancé,” came the reply from the darkness. “It was her that dragged me to this hell on earth, you know. Resurrectionist bitch. Now that I’ve seen her true colors, I wonder if she ever loved me, or was it all just to see what I knew about their organization? I was something of an expert on the Resurrectionists. I helped the police with uncovering the identity of Anthony Tidkins, their leader. I predicted their Dead London Project, but I was powerless to stop it.”
@@ -12473,7 +12475,7 @@ Roderick contemplates the clues he’s found so far. He takes a walk to clear hi
 His fellow prisoner laughed darkly. “Oh yes, I suppose you’ve been locked in here long enough that you wouldn’t have heard. The Dead London Project was an experiment. The Resurrectionists believed they could cure death, if they could only test their hypothesis on a large enough test population. They decided the population of London would suffice and began spreading a virus called Lazarus throughout the city. Those exposed to the virus experience a death of the body but remain animated. The Resurrectionists hoped to find a means of curing the virus’s side effects—namely, an intense hunger for the flesh of the living—but first, they needed to unleash the virus. I was locked up in their laboratory when the experiment was ongoing, so I didn’t have a chance to see the results.”
 The Mad Priest let out a sigh he’d been holding for the last two years. A long, tired sigh. He lingered by the bars that separated his cell from his fellow prisoner’s. He stood there for a while without speaking.
 “That’s what I saw,” Father Pieres said eventually. “That’s why they put me in here. I saw a man who’d been infected with this virus, the result of a Resurrectionist experiment. I ran to summon a policeman; instead, I found a Resurrectionist. I’ve been here ever since.”
-He caught another flash of green eyes.
+He caught another flash of green eyes as a flash of lightning from outside lit his prison mate’s face. A moment later, thunder followed lightning.
 “How will you escape?” asked the priest, changing the subject.
 “How did you know that’s what I was thinking about?”
 “Every prisoner imagines escaping,” Pieres answered. “It wouldn’t be a prison if the prisoners were content to stay put. After all—” He broke off at the sound of the guards making their rounds.
@@ -12501,7 +12503,8 @@ His cellmate did as bidden and came to stand at the edge of their cells. The pri
 “It looks wide enough to climb through,” Sinews interrupted, "and there are no bars on the window."
 “Yes, well, that's true. The problem, though, is what’s on the other side of the window.”
 He thought he saw understanding finally dawn in the prisoner’s green eyes. Sinews was clearly intelligent, and he’d obviously felt the floor shifting beneath him, but even so, his first guess was probably wrong. “We’re not at sea, if that’s what you’re thinking,” said the priest.
-“Where are we?”
+“Where are we?” Sinews asked, standing on the tips of his toes for a better look.
+There were thick black storm clouds raging outside, and periodically, flashes of lightning followed by deafening thunder. But if his prison mate could get a closer look, he’d have seen that the clouds were beneath them.
 “A thousand feet above the ground,” he answered. “So…now you understand why no one has ever escaped Chateau d’If...it’s an airship. The Resurrectionists use other, smaller ships to refuel and bring supplies aboard without ever needing to land. We’re adrift aboard a castle in the sky, and the only chance of escape is to jump.”
 He watched as the full weight of reality set in to Parson Sinews' expressive, jade eyes. The Mad Priest's pity slowly gave way to an unsettling feeling. His cellmate's lips stretched into a deranged parody of a smile, and he began to laugh.</Text>
         </Document>
@@ -12856,6 +12859,24 @@ To Jonathan it seemed as if everything had started with his father’s letter.
 “Dear Jonathan,” he’d said. “There’s not sufficient time for me to tell you everything, so I’ll say just this. Lord Henry Connor is dangerous.”
 The rest of the letter was illegible, and it was clear that it was not finished. But if it had not been for that short letter from his father, he would not have paid such close attention to Lord Connor’s letter when sorting through his father’s office. If he’d not scrutinized that so closely, he would not have noted the matching penmanship with Francis Varney’s letter, and were it not for those letters, he would never have attended Lord Connor’s party, never met Mr. Monday. Never ventured to attended Mr. Sinews’ Vigilance Committee meeting, never witnessed his arrest. One event led to another. But now Jonathan had come full circle.</Notes>
         </Document>
+        <Document ID="1130">
+            <Title>“So,” said Mr. Sinews, “These waste buckets they give</Title>
+            <Text>One Year Earlier
+
+“This prison,” he said, thinking aloud, “It can’t stay airborne forever, can it? Occasionally they’ll have to land somewhere for fuel and supplies and to keep the balloons full of hydrogen.”
+“Of course,” said the priest, “You are right about that. But if you’re thinking that the best time to escape is when the ship is aground, I’m afraid you may be mistaken. The security is relaxed when we’re in the sky, because the guards know as well as we do, that even if you do escape your cell, there’s nowhere for you to go. But when we land, that’s when you’ll see a change in the guards, not just in their number, but also in the seriousness with which they take their jobs. No, your best chance of escape is when we’re airborne.”
+“And what?” said Mr. Sinews, “Just fly out of here? Like a bird, I’ll simply flap my way down?”
+“Something like that,” said the priest.
+“Alright, Daedalus,” he replied. “We’ll just build ourselves a pair of wings and stick them to our backs with candle wax.” Mr. Sinews grinned. “Once again, living up to your name, Priest.”
+“You mock,” said the priest, “But what if it could be done? Wouldn’t it be worth trying?”
+“Yes,” Mr. Sinews consented.
+“So,” said the priest, “As I said, it will take time and preparation. First, we’ll need to get our hands on the appropriate supplies.”
+“And how will we do that?”
+The priest winked, knowingly. “The guards are not all without religious affiliation. They bring me whatever supplies they can get away with bringing me. I absolve them of sin.”
+Mr. Sinews returned the priest’s grin.
+“And in the meantime,” said Faria, “I have books and wisdom to offer you, my friend.”
+“I’m not sure about the books,” said Mr. Sinews, “But I could certainly do with some wisdom.”</Text>
+        </Document>
         <Document ID="1121">
             <Title>Recovered File [1121]</Title>
             <Text>“Thank God men cannot fly, and lay waste the sky as well as the earth”
@@ -13039,6 +13060,42 @@ External Conflicts:
  	
 
 Notes:		</Text>
+        </Document>
+        <Document ID="1131">
+            <Title>The Mad Priest awoke from another strange dream</Title>
+            <Text>Three Years Earlier
+
+The Mad Priest awoke from another strange dream, trembling violently with the memory. His head ached as if from a hangover. He was wasting away in this prison, all the meat on his bones turning to thin strips of skin that clung to his frail skeleton like wet rags. There were puncture wounds in his neck, but his memory had blanks. His skull throbbed when he tried to remember the night before. His prison mate terrified him, but he couldn’t say why. It had only been a week since Parson Sinews had moved into the adjacent cell. In that short time, the Mad Priest had begun to die.
+He had visions of green ghosts dancing at the edges of his vision, phosphorescent images flitting in his peripheral like faeries. He climbed out of his bed, shaking his head as if to clear the visions. Occasionally, when he looked at Mr. Sinews, he saw wings at his back. Like the broken wings of Lucifer himself, his wings were broad, feathered. His feathers were a green so dark they might have been black. Other times, he saw Sinews as an ordinary man. He began to wonder which was the illusion—the man or the angel.
+The memory of his dreams played out in his mind. His dreams were not his own.
+He remembered the sound of Parson Sinews’ leather shoes on cobblestone, louder than he might have expected from a man who walked with such grace and poise. The sound echoed in the still night air. The quiet was interrupted only by the dance of shoes on stone, and with that stillness came the sensation that if he were to stop and listen, he would hear nothing but the sound of his own blood pulsing through his veins.
+He shrunk back in his cell, remembering the dream as vividly as if he were still asleep. He saw green eyes in the darkness.
+Accompanying the rhythm of his footsteps came the tap of Parson’s walking stick. He did not lean heavily upon the cane but used it to accentuate the rhythm of his gait and to disturb the unnerving quiet as much as possible. Of all the things worth enduring, silence did not rank high on Parson’s list. Not merely in the auditory realm, Parson craved the chaotic and the voluminous. This silence disturbed him. The Mad Priest felt Parson’s hatred running through him.
+Parson quickened his step, increased the force with which he tapped his cane upon the ground, and abandoned the street in favor of a nearby alley. The alleyway quickly brought him to his fiancé’s residence. He knocked on the door.
+“This prison,” said his fellow prisoner, startling him. “It can’t stay airborne forever, can it? Occasionally they’ll have to land somewhere for fuel and supplies and to keep the balloons full of hydrogen.”
+Though the priest feared his fellow prisoner, he couldn’t help but respond kindly. He doubted himself more than he doubted his fellow man. His visions were a symptom of his own madness, not proof of his prison mate’s villainy.
+“Of course,” he said. “You’re right, although the ship doesn’t land often. It can refuel in mid-air, and it is capable of generating more hydrogen even without landing. It does land, of course, but if you’re thinking that the best time to escape is when the ship is aground, I’m afraid you may be mistaken. The security is relaxed when we’re in the sky, because the guards know as well as we do that even if you do escape your cell, there’s nowhere for you to go. But when we land, that’s when you’ll see a change in the guards, not just in their number, but also in the seriousness with which they take their jobs. No, your best chance of escape is when we’re airborne.”
+“And then what? We just fly out of here?”
+Why not? You’ve got wings. He almost said it aloud, but instead he kept his mouth shut.
+“First things first, we need to get out of our cells. How do we do that?”
+“Bonsoir, Rachelle,” he heard Sinews’ voice saying.
+At first, he had thought it was Camille at the door. She had the same beautiful brown eyes and caramel-colored skin, her hair pulled into neat cornrows, just like her sister. How the Mad Priest knew that, he didn’t know, but he knew that they looked so much alike that Sinews had often gotten them confused. He knew that Rachelle had found it amusing to play little jokes on him, planting kisses on his cheeks and calling him sweetheart. Sinews had learned to recognize their subtle differences since then. The way Camille held her hand on her hip when she was angry, the way she pouted when she was sad, the uninhibited way she laughed. There were physical differences too, but those were less obvious.
+“Où est-elle?” he asked. Where is she?
+“Suivez-moi,” Rachelle replied. Her French had the same Haitian accent as her sister’s, but her voice was colder than Camille’s.
+He stepped through the threshold of the door, and walked into that familiar household with its smells and sounds that brought memories rushing back violently. The smell of coffee beans from the kitchen. The scent of lemon that always seemed to permeate the hallway for whatever reason. The smell of Camille’s perfume from the stairway.
+He did as instructed and followed Camille’s twin up a flight of stairs, then down a dimly lit hallway and into the bedroom.
+A wave of nausea struck him like a kick to the gut.
+“Priest?”
+Pieres shook with the memory of the dream as he returned to the present. He was dying. This prison was killing him. He needed to escape as badly as his fellow prisoner did, but he knew somehow that only one of them would leave Chateau d’If alive.
+“How do we get out of our cells?” he demanded.
+Camille had a mask sewn to her face made of a jumbled mass of animal and human skin, fur and bone. A pair of dog’s ears replaced her own. Both arms were connected to her shoulders by a system of pistons and winches. The mechanical parts ran straight through her, replacing her skeletal system with machinery. With the grinding of clockwork gears, she raised her arm and waved. The gesture was so delicate, so human, so familiar, that Pieres wanted to gag and choke. He tried to awaken from his reverie, but he couldn’t.
+As the grinding of gears continued, she lowered her arm and smiled.
+As had been done to her arms, her legs had been altered as well, severed and reattached in the same manner. But it was not merely her own legs that had been sewn back on. She’d gained a few new pairs as well, making her a hideous parody of Arachne. Eight bare legs, each pair different from the other, and each one covered in scars and stitches from thigh to toe. The Mad Priest wondered if this was a memory or a nightmare. Had Sinews really killed this woman or had he just dreamed it? Or was he just mad?
+He wanted to look away. He needed to. He felt sick, but still he found himself drawing closer to Camille.
+He drew closer still, closer, until he was near enough to touch her. Near enough to look into her eyes. He laid a hand on her face, as gently as he could.
+There was a clicking sound, followed by that same grinding of gears, the whirring of mechanical parts, and the nauseating sound of dead flesh creaking as it moved, reanimated by the automaton beneath her skin.
+The sound was tinny and unclear, but the voice was hers. “Wake up, Father,” she told him. “He’s killing you.”
+His eyes snapped open. He looked into green eyes—and dreamed no more.</Text>
         </Document>
         <Document ID="386">
             <Title>Scene One</Title>
@@ -15559,6 +15616,7 @@ How long was the silence? A few seconds? A few agonizing minutes?</Comments>
         <Document ID="1125">
             <Title>Chapter Five</Title>
             <Text>“Thank God men cannot fly, and lay waste the sky as well as the earth”
+
 - Henry David Thoreau
 </Text>
         </Document>
@@ -16072,6 +16130,7 @@ Mr. Sinews set down his meal.
         <Document ID="1126">
             <Title>Chapter Six</Title>
             <Text>“To win any battle, you must fight as if you are already dead.”
+
 - Minamoto Musashi
 </Text>
         </Document>
@@ -16220,7 +16279,9 @@ Roderick Steen talks with Dr. Allen.</Synopsis>
         </Document>
         <Document ID="1118">
             <Title>Parson Sinews woke up violently, sitting up abruptly</Title>
-            <Text>The man in the next cell woke up violently. The Mad Priest peered through the bars between their cells and watched the new prisoner sit abruptly and gasp for air as if he hadn’t been breathing. He sat there panting for a moment, sweating as he caught his breath. “It felt so real,” he said, trembling. “It felt so real.”
+            <Text>Three Years Earlier
+
+The man in the next cell woke up violently. The Mad Priest peered through the bars between their cells and watched the new prisoner sit abruptly and gasp for air as if he hadn’t been breathing. He sat there panting for a moment, sweating as he caught his breath. “It felt so real,” he said, trembling. “It felt so real.”
 The Mad Priest tapped on the bars with his cane and saw a pair of green eyes flash in the darkness of the prisoner’s cell.
 “I looked into Camille’s eyes,” the prisoner mumbled. “I saw her, dead. But Camille isn’t dead. She dragged me to this hell hole.”
 The Mad Priest frowned. “You were dreaming," he said. "It was just a dream."
@@ -16475,7 +16536,7 @@ She reached the top of the ladder and climbed over the edge and onto the deck. T
 “Captain,” she shouted, “thank you!”
 “It’s good to see you, Miss Monday,” he said.
 “It’s Miss Grey,” she told him; though she’d previously been introduced to the captain as Miss Monday, she’d since abandoned her alter ego. “Annabel to my friends, which you most certainly are, after that heroic rescue. Listen, I have an idea for how to deal with that thing.”
-“I’m all ears, Miss Grey,” replied, sticking to formality. “Just tell me what you need.”</Text>
+“I’m all ears, Miss Grey,” the captain replied, sticking to formality. “Just tell me what you need.”</Text>
             <Notes>He stepped to the edge of the clock tower, then dove off the edge. Her eyes widened. That wasn’t what she’d meant.
 He crashed through the open window and landed in the cockpit of the Resurrectionist airship, in the belly of the beast. In a second, the creature would crash into the clock tower, toppling it. The abominable insect opened its jaws, tried to chomp down on Annabel. She dove off the edge of the tower, following Jonathan’s lead. She crashed through the 
 She groaned and reached for something to hold on to.</Notes>
@@ -16849,7 +16910,7 @@ He couldn't hide forever though.</Notes>
         </Document>
         <Document ID="1128">
             <Title>In a strange way</Title>
-            <Text>Kasumi imagined that, in a way, planning a monster hunt was little different from planning a heist. She knew that Annabel Grey had planned many. Kas had a great deal of respect for the infamous thief, and had seen her in action many times. She listened attentively to Annabel’s plan, and set her jaw in a firm line when she turned to Kas and explained her part.
+            <Text>Kasumi imagined that, in a way, planning a monster hunt was little different from planning a heist. She knew that Annabel Grey had planned many. Kas had a great deal of respect for the infamous thief, and had seen her in action many times. She listened attentively to Annabel’s plan, and set her jaw in a firm line when Annabel turned to Kas and explained her part.
 “Timing is crucial,” Annabel said, speaking rapidly as she revealed the plan. “Even as we speak, that thing is still running rampant, leaving ruins in its wake. Do you think you can manage what I’m asking?”
 Kas tucked her wrench into her tool belt and put a hand on the hilt of her sword. Her eyes gleamed, fierce and determined. She nodded. “You can count on me.”
 “Captain Merrick?” Annabel said, not wasting a moment.
@@ -16862,15 +16923,15 @@ Kas could hear Captain Merrick starting to shout orders to the crew, his voice s
 When he was done, she drew her katana. Quickly, with the skill of a practiced swordswoman, she sharpened and polished it. She raised the sword and listened to it sing as it sliced through the air.
 “Where’d you learn to do that?” Kip asked.
 “From my mother,” Kas explained. “And she learned from watching my father, who was an expert in Niten Ichi Ryu and a Shinsengumi officer—a member of a police task force formed to protect the Shogunate. He was also a spy.”
-Kip’s eyes widened, as Kasumi practiced with the sword, preparing for what she was about to do. The sword carved through the air, Kas’s movement so precise she might have made the sky bleed as she sliced with the sharp steel. She felt the rumble of the engines as they chased down the enormous insect.
+Kip’s eyes widened, as Kasumi practiced with the sword, preparing for what she was about to do. The sword carved through the air, her movement so precise she might have made the sky bleed as she slashed with sharp steel. She felt the rumble of the engines as they chased down the enormous insect, and shifted her feet as the deck swayed. Her blade arced, folded steel glinting in the sunlight.
 “My mother grew up revering the onna-bugeishas—female martial artists—and although women don’t commonly learn the sword any more,” Kas continued, her eye fixed on the cockroach as they drew closer, sneaking up from behind the insect with more speed than stealth, “my mother took her learning upon herself. She learned from my father’s example, even without his knowledge. She began to practice Nito Ryu, a classical style of swordsmanship, and when I was old enough, she began to teach me. One day, my father caught me using his sword. At first, he was furious. When he saw my skill with a sword, however, he promised to finish training me himself.”
 She turned back to Kip. “I’m ready,” she said.
 She signaled to the captain, who slowed the ship to match the pace of the flying insect. She slipped her welding goggles over her eyes and tightened the leather strap. Setting her jaw, she stepped over the ship’s ledge and fell through the air.
 The rope unspooled, stretching out behind her, as the bitter wind stung her cheeks. The rope began to go taut as she neared the end of its length; at the same time, she came out of the dive in order to land on the beast’s back. She drove the blade into its shell as she landed, and clung to the blade for balance.
-The Penny Dreadful continued to match her pace to allow her enough rope that she wouldn’t be yanked off before her work was done, but the creature wailed in rage as she drove the sword into it and tried to shake her free. Even if she did fall, the rope around her waist would keep her from plummeting to the ground below. She concentrated on what she needed to do.
-Sword scraped against chitin as she pulled it free. Standing precariously on the edge of the monster’s back, she swung the sword, and in one quick motion, carved off both wings. The creature’s wail was shrill, and painfully loud. It dropped out of the sky just as quickly, and suddenly, Kas was swinging from the rope, dangling a hundred feet above the earth, suspended from the airship.
-The earth spun dizzyingly below, the rope jerking and swinging her violently. She clung to her sword, scared she was going to end up slicing her own fingers off. She swung back and forth in long arcs, her body completely horizontal as she struggled to regain her balance. She watched the monster’s antennae whip past and heard the thunderous crash of the monster hitting the earth.
-She continued to swing, spreading her arms in a desperate bid to regain her balance. She heard the snapping of rope, and knew she’d inadvertently hit the rope with her blade. When the rope jerked again, the last thread snapped, and she fell.</Text>
+The Penny Dreadful continued to match her pace to allow her enough rope that she wouldn’t be yanked off before her work was done, but the creature wailed in rage as she drove the sword into it and it tried to shake her free. Even if she did fall, the rope around her waist would keep her from plummeting to the ground below. She concentrated on what she needed to do.
+Steel scraped against chitin as she pulled the blade free. Standing precariously on the edge of the monster’s back, she swung the sword, and in one quick motion, carved off both wings. The creature’s wail was shrill, and painfully loud. It dropped out of the sky just as quickly, and suddenly, Kas was swinging from the rope, dangling a hundred feet above the earth, suspended from the airship.
+The earth spun dizzyingly below, the rope jerking and swinging her violently. She clutched her sword tight, scared she was going to end up slicing her own fingers off or stabbing herself. She swung back and forth in long arcs, her body completely horizontal as she struggled to regain her balance. She watched the monster’s antennae whip past and heard the thunderous crash of the monster hitting the earth.
+She continued to swing, spreading her arms in a desperate bid to regain her balance. She heard the snapping of twine, and knew she’d inadvertently hit the rope with her blade. When the rope jerked again, the last thread snapped, and she fell.</Text>
         </Document>
         <Document ID="759">
             <Title>Scene Three</Title>
@@ -17041,6 +17102,13 @@ External Conflicts:
  	
 
 Notes:		</Text>
+        </Document>
+        <Document ID="1129">
+            <Title>Chapter Seven</Title>
+            <Text>“I drank till the solid walls of my own room, when at last I found myself there, appeared to me like transparent glass shot through with emerald flame. Surrounded on all sides by phantoms—beautiful, hideous, angelic, devilish—I reeled to my couch in a sort of waking swoon, conscious of strange sounds everywhere…”
+
+- Marie Corelli, Wormwood: a Drama of Paris
+</Text>
         </Document>
         <Document ID="316">
             <Title>Scene One</Title>
