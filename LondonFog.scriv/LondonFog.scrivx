@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryces-MacBook-Pro" Modified="2016-08-16 12:46:36 -0700" ModID="1B426402-7246-4D22-A5EC-F0D336C90A54">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryces-MacBook-Pro" Modified="2016-08-16 17:16:53 -0700" ModID="3B55A845-445D-4CE7-B6CE-22E9FBBA4797">
     <Binder>
         <BinderItem ID="0" UUID="11C442F8-33DF-4171-906A-71D3E870481F" Type="DraftFolder" Created="2006-11-04 08:27:29 -0800" Modified="2016-08-08 17:03:40 -0700">
             <Title>London Fog</Title>
@@ -179,9 +179,11 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1122" UUID="E1446D49-0EF8-4B11-9483-F4D6B20BD31F" Type="Text" Created="2016-08-12 20:09:39 -0700" Modified="2016-08-13 09:14:10 -0700">
+                                <BinderItem ID="1122" UUID="E1446D49-0EF8-4B11-9483-F4D6B20BD31F" Type="Text" Created="2016-08-12 20:09:39 -0700" Modified="2016-08-16 15:19:15 -0700">
                                     <Title>Recovered File [1122]</Title>
                                     <MetaData>
+                                        <LabelID>7</LabelID>
+                                        <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <FileExtension>rtf</FileExtension>
                                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -190,22 +192,25 @@
                                         <TextSelection>1204,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="1123" UUID="25EE8B1B-CC4B-41F0-8213-747531588577" Type="Text" Created="2016-08-12 20:09:39 -0700" Modified="2016-08-16 11:19:10 -0700">
+                                <BinderItem ID="1123" UUID="25EE8B1B-CC4B-41F0-8213-747531588577" Type="Text" Created="2016-08-12 20:09:39 -0700" Modified="2016-08-16 15:19:07 -0700">
                                     <Title>Recovered File [1123]</Title>
                                     <MetaData>
+                                        <LabelID>1</LabelID>
+                                        <StatusID>2</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <FileExtension>rtf</FileExtension>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6423,0</TextSelection>
+                                        <TextSelection>5231,8</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="1126" UUID="6AE8EEE4-E27D-4BF4-83A0-78DFAFCA2BF7" Type="Folder" Created="2016-08-12 20:10:52 -0700" Modified="2016-08-12 20:10:55 -0700">
+                        <BinderItem ID="1126" UUID="6AE8EEE4-E27D-4BF4-83A0-78DFAFCA2BF7" Type="Folder" Created="2016-08-12 20:10:52 -0700" Modified="2016-08-16 17:09:28 -0700">
                             <Title>Chapter Six</Title>
                             <MetaData>
+                                <LabelID>7</LabelID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
@@ -213,24 +218,26 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1127" UUID="272D6A7B-B756-4822-9EDB-341D625629CB" Type="Text" Created="2016-08-12 20:11:01 -0700" Modified="2016-08-16 12:45:22 -0700">
+                                <BinderItem ID="1127" UUID="272D6A7B-B756-4822-9EDB-341D625629CB" Type="Text" Created="2016-08-12 20:11:01 -0700" Modified="2016-08-16 17:15:41 -0700">
                                     <Title>“Well, I must say, I like your timing</Title>
                                     <MetaData>
+                                        <LabelID>7</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>6129,0</TextSelection>
+                                        <TextSelection>1767,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem ID="1128" UUID="16BA4178-5FE5-4A1F-92F0-0A22509DC722" Type="Text" Created="2016-08-16 12:46:33 -0700" Modified="2016-08-16 12:46:33 -0700">
-                                    <Title>Untitled</Title>
+                                <BinderItem ID="1128" UUID="16BA4178-5FE5-4A1F-92F0-0A22509DC722" Type="Text" Created="2016-08-16 12:46:33 -0700" Modified="2016-08-16 17:16:53 -0700">
+                                    <Title>In a strange way</Title>
                                     <MetaData>
+                                        <LabelID>6</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>2501,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -5093,7 +5100,7 @@
                                                 </CustomMetaData>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>4391,14</TextSelection>
+                                                <TextSelection>3727,512</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -7387,7 +7394,7 @@
         </Collection>
         <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.922 0.91 0.98">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Exact" Type="Text" Scope="Draft" CaseSensitive="No">Kass</SearchSettings>
+            <SearchSettings Operator="Exact" Type="Text" Scope="Selection" CaseSensitive="No">Kas</SearchSettings>
         </Collection>
     </Collections>
     <Keywords>
@@ -7445,7 +7452,7 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2013-09-02 05:30:48 -0700" IgnoreDeadline="Yes">90000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">4500</SessionTarget>
-        <PreviousSession Words="1091" Characters="6209" Date="2016-08-16 11:04:10 -0700"></PreviousSession>
+        <PreviousSession Words="2011" Characters="11359" Date="2016-08-16 11:04:10 -0700"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>8EED039C-309C-4498-8EB6-DE6EA0C8183E</TemplateFolderUUID>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
