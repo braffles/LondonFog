@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Bryce-Raffles-iMac" Modified="2016-08-19 08:59:19 -0700" ModID="6E6E9691-46AF-43A4-A267-5C8C2A4BE0E0">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryces-MacBook-Pro" Modified="2016-08-19 11:24:16 -0700" ModID="EB125D06-BCEA-4C92-AEB9-731F28BC1BCB">
     <Binder>
         <BinderItem ID="0" UUID="11C442F8-33DF-4171-906A-71D3E870481F" Type="DraftFolder" Created="2006-11-04 08:27:29 -0800" Modified="2016-08-08 17:03:40 -0700">
             <Title>London Fog</Title>
@@ -337,7 +337,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem ID="1141" UUID="344BEBDB-DF9F-4816-B60D-71B2D637A67E" Type="Folder" Created="2016-08-18 15:17:13 -0700" Modified="2016-08-18 15:17:29 -0700">
+                        <BinderItem ID="1141" UUID="344BEBDB-DF9F-4816-B60D-71B2D637A67E" Type="Folder" Created="2016-08-18 15:17:13 -0700" Modified="2016-08-19 09:29:32 -0700">
                             <Title>Chapter Nine</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -347,7 +347,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1140" UUID="195AB362-F92C-44EE-8AFC-8E64572BC2EA" Type="Text" Created="2016-08-18 15:17:10 -0700" Modified="2016-08-18 18:40:53 -0700">
+                                <BinderItem ID="1140" UUID="195AB362-F92C-44EE-8AFC-8E64572BC2EA" Type="Text" Created="2016-08-18 15:17:10 -0700" Modified="2016-08-19 09:43:01 -0700">
                                     <Title>Bailey wagged his tail when he recognized the shadowy</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -366,6 +366,16 @@
                                     </MetaData>
                                     <TextSettings>
                                         <TextSelection>290,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="1136" UUID="9062195A-CF47-4045-9F4D-3314839446A1" Type="Text" Created="2016-08-17 15:55:59 -0700" Modified="2016-08-19 11:24:04 -0700">
+                                    <Title>A train whistled in the distance as</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,4369</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -392,18 +402,6 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
-                            <Children>
-                                <BinderItem ID="1136" UUID="9062195A-CF47-4045-9F4D-3314839446A1" Type="Text" Created="2016-08-17 15:55:59 -0700" Modified="2016-08-17 15:55:59 -0700">
-                                    <Title>Untitled</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -6645,14 +6643,14 @@
                         <TextSelection>4864,10</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="986" UUID="24772FBA-031D-4F40-9190-1DC7F82E7F1E" Type="Text" Created="2016-01-30 17:44:18 -0800" Modified="2016-08-17 16:10:14 -0700">
+                <BinderItem ID="986" UUID="24772FBA-031D-4F40-9190-1DC7F82E7F1E" Type="Text" Created="2016-01-30 17:44:18 -0800" Modified="2016-08-19 09:26:22 -0700">
                     <Title>Unused</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3190,45</TextSelection>
+                        <TextSelection>5185,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="987" UUID="64A56620-8C55-4631-8B7E-113D2CF6EAF5" Type="Text" Created="2016-01-30 17:53:41 -0800" Modified="2016-01-31 11:39:02 -0800">
@@ -6770,6 +6768,16 @@
                     </MetaData>
                     <TextSettings>
                         <TextSelection>1159,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="1143" UUID="84629976-F516-4EE1-8059-7BD15F1D83FA" Type="Text" Created="2016-08-19 09:30:05 -0700" Modified="2016-08-19 09:43:54 -0700">
+                    <Title>In Paris</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -7609,7 +7617,7 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2013-09-02 05:30:48 -0700" IgnoreDeadline="Yes">90000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">4500</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-08-19 08:59:17 -0700"></PreviousSession>
+        <PreviousSession Words="808" Characters="4522" Date="2016-08-19 09:21:23 -0700"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>8EED039C-309C-4498-8EB6-DE6EA0C8183E</TemplateFolderUUID>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
