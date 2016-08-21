@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Bryce-Raffles-iMac" Modified="2016-08-20 00:52:54 -0700" ModID="B5F0B079-9771-4137-ACA4-A034BE6246BF">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryces-MacBook-Pro" Modified="2016-08-21 12:37:18 -0700" ModID="6B77219D-255F-4625-813D-3086B2324E17">
     <Binder>
         <BinderItem ID="0" UUID="11C442F8-33DF-4171-906A-71D3E870481F" Type="DraftFolder" Created="2006-11-04 08:27:29 -0800" Modified="2016-08-08 17:03:40 -0700">
             <Title>London Fog</Title>
@@ -365,7 +365,7 @@
                                         <NotesTextSelection>0,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>290,0</TextSelection>
+                                        <TextSelection>0,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1136" UUID="9062195A-CF47-4045-9F4D-3314839446A1" Type="Text" Created="2016-08-17 15:55:59 -0700" Modified="2016-08-19 22:54:29 -0700">
@@ -375,7 +375,7 @@
                                         <NotesTextSelection>994,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,6870</TextSelection>
+                                        <TextSelection>6571,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -403,14 +403,15 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem ID="1146" UUID="AEB1AF53-9DE1-4233-9624-99DB67A81409" Type="Text" Created="2016-08-20 00:51:54 -0700" Modified="2016-08-20 00:51:54 -0700">
-                                    <Title>Untitled</Title>
+                                <BinderItem ID="1146" UUID="AEB1AF53-9DE1-4233-9624-99DB67A81409" Type="Text" Created="2016-08-20 00:51:54 -0700" Modified="2016-08-21 12:37:10 -0700">
+                                    <Title>They passed over Gravesend on their way back to London</Title>
                                     <MetaData>
+                                        <LabelID>1</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                        <NotesTextSelection>164,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>4613,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -1287,7 +1288,7 @@
                                                 <NotesTextSelection>0,0</NotesTextSelection>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>4337,0</TextSelection>
+                                                <TextSelection>0,0</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                         <BinderItem ID="566" UUID="7D9AE956-B269-4696-A564-6E55B1388FA6" Type="Text" Created="2014-07-13 13:48:39 -0700" Modified="2015-05-02 12:29:07 -0700">
@@ -1372,7 +1373,7 @@
                                         <NotesTextSelection>67,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,5515</TextSelection>
+                                        <TextSelection>4545,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="805" UUID="5904518D-7BAC-4B6C-9659-3FC1B06E80AB" Type="Folder" Created="2015-10-10 14:20:24 -0700" Modified="2015-10-10 14:20:27 -0700">
@@ -1421,7 +1422,7 @@
                                         <IconFileName>Notes (Blue Notepad).tiff</IconFileName>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>419,856</TextSelection>
+                                        <TextSelection>227,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="826" UUID="F50766DA-2152-4947-B383-48A1771354A1" Type="Folder" Created="2015-11-08 16:53:40 -0800" Modified="2015-11-08 16:53:44 -0800">
@@ -5030,7 +5031,7 @@
                                                 </CustomMetaData>
                                             </MetaData>
                                             <TextSettings>
-                                                <TextSelection>8285,0</TextSelection>
+                                                <TextSelection>12497,846</TextSelection>
                                             </TextSettings>
                                         </BinderItem>
                                     </Children>
@@ -7651,7 +7652,7 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2013-09-02 05:30:48 -0700" IgnoreDeadline="Yes">86000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">4300</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2016-08-20 00:49:24 -0700"></PreviousSession>
+        <PreviousSession Words="783" Characters="4613" Date="2016-08-21 11:11:13 -0700"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>8EED039C-309C-4498-8EB6-DE6EA0C8183E</TemplateFolderUUID>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
