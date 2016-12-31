@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<<<<<<< Updated upstream
 <ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Bryces-MacBook-Pro" Modified="2016-11-29 18:10:50 -0800" ModID="19C4D803-8930-404D-B35A-7E4F02EE01D2">
+=======
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26295" Device="Bryce-Raffles-iMac" Modified="2016-09-13 14:01:44 -0700" ModID="F938B926-8E19-4630-A082-49733F166543">
+>>>>>>> Stashed changes
     <Binder>
         <BinderItem ID="0" UUID="11C442F8-33DF-4171-906A-71D3E870481F" Type="DraftFolder" Created="2006-11-04 08:27:29 -0800" Modified="2016-08-08 17:03:40 -0700">
             <Title>London Fog</Title>
@@ -105,7 +109,11 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
+<<<<<<< Updated upstream
                                 <BinderItem ID="1118" UUID="21D556A8-2DA5-4BF9-BE47-4B1149FF8AD2" Type="Text" Created="2016-08-11 15:18:22 -0700" Modified="2016-11-26 14:03:34 -0800">
+=======
+                                <BinderItem ID="1118" UUID="21D556A8-2DA5-4BF9-BE47-4B1149FF8AD2" Type="Text" Created="2016-08-11 15:18:22 -0700" Modified="2016-09-13 13:49:21 -0700">
+>>>>>>> Stashed changes
                                     <Title>Parson Sinews woke up violently, sitting up abruptly</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -127,7 +135,11 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
+<<<<<<< Updated upstream
                                 <BinderItem ID="1112" UUID="73E1A966-B0E1-49BD-ABF6-E6D5B3761E4F" Type="Text" Created="2016-08-10 12:31:50 -0700" Modified="2016-11-26 14:04:34 -0800">
+=======
+                                <BinderItem ID="1112" UUID="73E1A966-B0E1-49BD-ABF6-E6D5B3761E4F" Type="Text" Created="2016-08-10 12:31:50 -0700" Modified="2016-09-13 13:49:42 -0700">
+>>>>>>> Stashed changes
                                     <Title>Annabel tore down the pier</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -137,8 +149,13 @@
                                         <TextSelection>2681,496</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
+<<<<<<< Updated upstream
                                 <BinderItem ID="1149" UUID="730CDF2D-41FA-4BAD-9021-DBF1D4C31B31" Type="Text" Created="2016-08-10 14:36:21 -0700" Modified="2016-11-28 12:00:42 -0800">
                                     <Title>Mr. Lockwood joined Professor Ashcroft at the window copy</Title>
+=======
+                                <BinderItem ID="1114" UUID="69AA0EAB-8846-40EC-88AF-DEE56702CA0D" Type="Text" Created="2016-08-10 14:36:21 -0700" Modified="2016-09-13 13:55:11 -0700">
+                                    <Title>Mr. Lockwood joined Professor Ashcroft at the window</Title>
+>>>>>>> Stashed changes
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
                                         <NotesTextSelection>0,0</NotesTextSelection>
@@ -313,7 +330,11 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
+<<<<<<< Updated upstream
                                 <BinderItem ID="1134" UUID="0738005E-CAEC-45C4-8526-26A2A0B855C8" Type="Text" Created="2016-08-17 12:28:52 -0700" Modified="2016-11-27 15:03:59 -0800">
+=======
+                                <BinderItem ID="1134" UUID="0738005E-CAEC-45C4-8526-26A2A0B855C8" Type="Text" Created="2016-08-17 12:28:52 -0700" Modified="2016-09-13 13:58:16 -0700">
+>>>>>>> Stashed changes
                                     <Title>One look at the long expanse of</Title>
                                     <MetaData>
                                         <LabelID>7</LabelID>
@@ -347,7 +368,11 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
+<<<<<<< Updated upstream
                                 <BinderItem ID="1140" UUID="195AB362-F92C-44EE-8AFC-8E64572BC2EA" Type="Text" Created="2016-08-18 15:17:10 -0700" Modified="2016-11-27 15:06:39 -0800">
+=======
+                                <BinderItem ID="1140" UUID="195AB362-F92C-44EE-8AFC-8E64572BC2EA" Type="Text" Created="2016-08-18 15:17:10 -0700" Modified="2016-09-13 14:01:01 -0700">
+>>>>>>> Stashed changes
                                     <Title>Bailey wagged his tail when he recognized the shadowy</Title>
                                     <MetaData>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -403,6 +428,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
+<<<<<<< Updated upstream
                                 <BinderItem ID="1147" UUID="4F0A61E1-823E-4606-8AE5-16624F5335B7" Type="Text" Created="2016-11-28 10:21:48 -0800" Modified="2016-11-28 12:56:17 -0800">
                                     <Title>Jonathan clapped his arms</Title>
                                     <MetaData>
@@ -414,6 +440,9 @@
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem ID="1146" UUID="AEB1AF53-9DE1-4233-9624-99DB67A81409" Type="Text" Created="2016-08-20 00:51:54 -0700" Modified="2016-11-28 10:21:27 -0800">
+=======
+                                <BinderItem ID="1146" UUID="AEB1AF53-9DE1-4233-9624-99DB67A81409" Type="Text" Created="2016-08-20 00:51:54 -0700" Modified="2016-08-28 19:14:40 -0700">
+>>>>>>> Stashed changes
                                     <Title>They passed over Gravesend on their way back to London</Title>
                                     <MetaData>
                                         <LabelID>1</LabelID>
@@ -421,7 +450,11 @@
                                         <NotesTextSelection>164,0</NotesTextSelection>
                                     </MetaData>
                                     <TextSettings>
+<<<<<<< Updated upstream
                                         <TextSelection>0,0</TextSelection>
+=======
+                                        <TextSelection>170,0</TextSelection>
+>>>>>>> Stashed changes
                                     </TextSettings>
                                 </BinderItem>
                             </Children>
@@ -7683,7 +7716,11 @@
     <ProjectTargets Notify="Yes">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2013-09-02 05:30:48 -0700" IgnoreDeadline="Yes">86000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">4300</SessionTarget>
+<<<<<<< Updated upstream
         <PreviousSession Words="0" Characters="0" Date="2016-11-29 18:10:03 -0800"></PreviousSession>
+=======
+        <PreviousSession Words="23" Characters="152" Date="2016-09-13 13:29:00 -0700"></PreviousSession>
+>>>>>>> Stashed changes
     </ProjectTargets>
     <TemplateFolderUUID>8EED039C-309C-4498-8EB6-DE6EA0C8183E</TemplateFolderUUID>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
